@@ -14,4 +14,4 @@ __name__ — это имя текущего модуля Python. Приложе�
 
 7 строка - @app.route('/', methods=['GET', 'POST'])
 ![route](https://github.com/allelleo/dod/blob/main/app/v3/photo_2023-04-24_22-43-18.jpg)
-(не понля - читай)[https://flask.palletsprojects.com/en/latest/quickstart/#routing]
+[не понял - читай](https://flask.palletsprojects.com/en/latest/quickstart/#routing)
